@@ -2,3 +2,4 @@ Hi this is lokesh
 this line is added to learn 
 Working in git 
 this is new line
+this is line 5 and changed
